@@ -1,0 +1,16 @@
+.galeria__secao-mais{
+  text-align: center;
+  color: var(--cor-destaque);
+  font-weight: 700;
+  transition: all 400ms ease-in-out;
+  cursor: pointer;
+  margin-top: 2.5rem;
+}
+
+.galeria__secao-mais > a{
+    color: var(--cor-destaque);
+}
+
+.galeria__secao-mais:hover{
+  opacity: .7;
+}
